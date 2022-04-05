@@ -1,0 +1,12 @@
+wget
+pandas
+numpy
+time
+datetime
+chat-downloader
+virtualenv
+google-api-python-client
+plotly
+plotly-express
+scikit-learn
+seaborn
