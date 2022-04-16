@@ -30,4 +30,6 @@ de vêtement en ligne.
 (une somme d’argent au choix du spectateur qui veut donner) directement aux youtubeurs, ou bien même devenir membre de leur chaîne et avoir accès à certains 
 avantages mais en échange d’une somme d’argent fixe, ce qu’on appelle les subs. La plateforme la plus populaire pour cela est Twitch, mais Youtube le fait aussi.
 
+## User Guide
 
+## Developper Guide
