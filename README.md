@@ -74,7 +74,7 @@ Ce fichier a été téléchargé [ici](http://webstat.banque-france.fr/ws_wsfr/d
 
 - *projet_fonction.py*
 
-Ce fichier contient les imports des différents modules utiles ainsi que la création du dictionnaire pour convertir les dons en euros et la création des 3 fonctions décrites dans la partie IV.C)
+Ce fichier contient les imports des différents modules utiles ainsi que la création du dictionnaire pour convertir les dons en euros et la création des 3 fonctions utiles pour récupérer les dons sur les replay de live.
 
 - *creation_fichier_IDvideo.ipynb*
 
@@ -102,7 +102,13 @@ Ce fichier CSV présente des données sur des live en particulier le montant de 
 
 - *dons_live_total.csv*
 
-Ce fichier CSV présente des données sur des live en particulier le montant de dons et le nombre de dons reçu lors d’un live. Les vidéos traitées ont été trouvées grâce aux identifiants contenus dans le corpus de 32904 vidéos (dans le fichier 2021_10_08_LIVE_VIDEOS.xlsx). Ce fichier comporte 23761 lignes et 13 variables séparées par des virgules.
+Ce fichier CSV présente des données sur des live en particulier le montant de dons et le nombre de dons reçu lors d’un live. Les vidéos traitées ont été trouvées grâce aux identifiants contenus dans le corpus de 32904 vidéos (dans le fichier *2021_10_08_LIVE_VIDEOS.xlsx*). Ce fichier comporte 23761 lignes et 13 variables séparées par des virgules.
 
+- *Traitement_BDD.ipynb*
 
+Ce fichier contient les lignes de code permettant le traitement de la base de données *dons_live_total.csv*. Mais aussi quelques analyses statistiques faites sur les bases des données que nous avons pu récupérer.
+
+- *dons_live_total_II.csv*
+
+Ce fichier CSV provient d’un traitement des données fait dans le fichier *Traitement_BDD.ipynb*, il correspond au fichier dons_live_total.csv avec les vidéos de moins de 30 minutes supprimées. Car elles sont considérées comme des “Avant-premières” et non des lives
 
