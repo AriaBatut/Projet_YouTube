@@ -64,7 +64,31 @@ Ce fichier est un corpus de 39 000 vidéos, parmi le corpus de 400 000 vidéos, 
 Ce fichier contient le nom de tous les modules qui sont nécessaires d’être installés pour le bon fonctionnement des programmes
 
   **Dans le dossier Fichiers_Crowd**
+- *Function Scraping.ipynb*
+
+Ce fichier contient les fonctions suivantes :
+
+  - function_get_link_donation : dans cette fonction on met en paramètre un lien URL d’une vidéo youtube et on récupère à la fin les liens de crowdfunding présent dans la description de la vidéo youtube.
   
+  - function_get_sum_donation : cette fonction prend en paramètre un lien de crowdfunding et elle retourne l’URL, le don sur le site, le nombre d’abonnés qui ont participé au crowdfunding et le temps. Cette fonction retourne les dons et abonnées de deux sites de crowdfunding ‘tipeee’ et ‘utip’.
+Ensuite dans ce même fichier on utilise la deuxième fonction sur les données de WIZDEO.
+
+- *Lien_Dons_crownfunding_tipers_time_JSON_utip.xlsx/.csv*
+
+Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour uTip.
+
+- *Lien_Dons_crownfunding_tipers_time_JSON_tipeee.xlsx/.csv*
+
+Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour Tipeee.
+
+- *Lien_Dons_crownfunding_tipers_time_JSON_utip_tipeee.xlsx/.csv*
+
+Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour tous les sites de crowdfunding des fichiers JSON.
+
+- *Results_utip.xlsx*
+
+Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées, le temps où on a collecté l’information du site avec en plus toutes les autres colonnes du fichier excel WIZDEO pour utip.
+
   **Dans le dossier Fichiers_Merch**
   
   **Dans le dossier Fichiers_Dons**
