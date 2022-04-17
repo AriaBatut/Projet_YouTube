@@ -10,3 +10,14 @@ plotly
 plotly-express
 scikit-learn
 seaborn
+csv
+BeautifulSoup
+Request
+urlopen 
+random
+webdriver
+Options
+Keys
+URLExtract
+re
+os
