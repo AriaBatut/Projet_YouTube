@@ -68,8 +68,8 @@ Ce fichier contient le nom de tous les modules qui sont nécessaires d’être i
 
 Ce fichier contient les fonctions suivantes :
 
-    - function_get_link_donation : dans cette fonction on met en paramètre un lien URL d’une vidéo youtube et on récupère à la fin les liens de crowdfunding présent dans la description de la vidéo youtube.
-    - function_get_sum_donation : cette fonction prend en paramètre un lien de crowdfunding et elle retourne l’URL, le don sur le site, le nombre d’abonnés qui ont participé au crowdfunding et le temps. Cette fonction retourne les dons et abonnées de deux sites de crowdfunding ‘tipeee’ et ‘utip’.
+  1) function_get_link_donation : dans cette fonction on met en paramètre un lien URL d’une vidéo youtube et on récupère à la fin les liens de crowdfunding présent dans la description de la vidéo youtube.
+  2) function_get_sum_donation : cette fonction prend en paramètre un lien de crowdfunding et elle retourne l’URL, le don sur le site, le nombre d’abonnés qui ont participé au crowdfunding et le temps. Cette fonction retourne les dons et abonnées de deux sites de crowdfunding ‘tipeee’ et ‘utip’.
 Ensuite dans ce même fichier on utilise la deuxième fonction sur les données de WIZDEO.
 
 - *Lien_Dons_crownfunding_tipers_time_JSON_utip.xlsx/.csv*
