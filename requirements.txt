@@ -21,3 +21,4 @@ Keys
 URLExtract
 re
 os
+selenium
