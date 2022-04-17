@@ -112,3 +112,8 @@ Ce fichier contient les lignes de code permettant le traitement de la base de do
 
 Ce fichier CSV provient d’un traitement des données fait dans le fichier *Traitement_BDD.ipynb*, il correspond au fichier dons_live_total.csv avec les vidéos de moins de 30 minutes supprimées. Car elles sont considérées comme des “Avant-premières” et non des lives
 
+- *Projet Analyse des données.pbix*
+
+Ce fichier contient une analyse des différentes données récoltées sur les dons. Il est nécessaire d'avoir l'application Power BI pour ouvrir le fichier et pouvoir manipuler les différentes données.
+
+
