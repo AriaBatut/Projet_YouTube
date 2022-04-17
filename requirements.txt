@@ -20,4 +20,3 @@ Options
 Keys
 URLExtract
 re
-os
