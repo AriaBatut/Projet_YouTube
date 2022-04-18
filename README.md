@@ -73,24 +73,31 @@ Ce fichier contient les fonctions suivantes :
 Ensuite dans ce même fichier on utilise la deuxième fonction sur les données de WIZDEO.
 
 - *Chaine_Lien_crownfunding_f.csv*
+
 Ce fichier, format csv, contient les liens Tipeee avec le nom des chaînes, les données venant d'excel WIZDEO.
 
 - *Chaine_Lien_Dons_crownfunding_tipers_time_summary_f.csv*
+
 Ce fichier, format csv, contient le nom du youtubeur, les liens Tipeee, les dons, le nombre de tipers données venant d'excel WIZDEO.
 
 - *Lien_Dons_crownfunding_tipers_time_JSON_utip.xlsx/.csv*
+
 Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour uTip.
 
 - *Lien_Dons_crownfunding_tipers_time_JSON_tipeee.xlsx/.csv*
+
 Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour Tipeee.
 
 - *Lien_Dons_crownfunding_tipers_time_JSON_utip_tipeee.xlsx/.csv*
+
 Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées et le temps où on a collecté l’information du site pour tous les sites de crowdfunding des fichiers JSON (1352/1456).
 
 - *Results_utip.xlsx*
+
 Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées, le temps où on a collecté l’information du site avec en plus toutes les autres colonnes du fichier excel WIZDEO pour utip.
 
 - *Results_tipeee.xlsx*
+
 Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, le nombre d’abonnées, le temps où on a collecté l’information du site avec en plus toutes les autres colonnes du fichier excel WIZDEO pour tipeee.
 
 
