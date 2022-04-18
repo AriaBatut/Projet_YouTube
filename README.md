@@ -64,7 +64,7 @@ Ce fichier est un corpus de 39 000 vidéos, parmi le corpus de 400 000 vidéos, 
 Ce fichier contient le nom de tous les modules qui sont nécessaires d’être installés pour le bon fonctionnement des programmes
 
   **Dans le dossier Fichiers_Crowd**
-- *Function Scraping.ipynb*
+- *Function Scraping Crowd.ipynb*
 
 Ce fichier contient les fonctions suivantes :
 
