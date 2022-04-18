@@ -142,7 +142,7 @@ Ce fichier CSV présente des données sur des live en particulier le montant de 
 
 - *Traitement_BDD.ipynb*
 
-Ce fichier contient les lignes de code permettant le traitement de la base de données *dons_live_total.csv*. Mais aussi quelques analyses statistiques faites sur les bases des données que nous avons pu récupérer.
+Ce fichier contient les lignes de code permettant le traitement de la base de données dons_live_total.csv. Mais aussi quelques analyses statistiques faites sur les bases des données. En particulier une comparaison annuelle tirée de nos bases de données( dons_live8810.csv et dons_live_total_II.csv).
 
 - *dons_live_total_II.csv*
 
