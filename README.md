@@ -103,6 +103,11 @@ Résultat sous format excel et csv avec wa_id, le nom du site, le lien, le don, 
 
   **Dans le dossier Fichiers_Merch**
   
+- *Projet_Youtube_Merch.ipynb*
+
+Ce fichier contient tout le code afin de pouvoir obtenir la liste des sites de merchandising.
+
+
   **Dans le dossier Fichiers_Dons**
 - *Webstat_Export_20220309.csv*
 
