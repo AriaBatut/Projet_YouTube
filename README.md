@@ -145,6 +145,10 @@ Ce fichier CSV présente des données sur des live en particulier le montant de 
 
 Ce fichier CSV présente des données sur des live en particulier le montant de dons et le nombre de dons reçu lors d’un live. Les vidéos traitées ont été trouvées grâce aux identifiants contenus dans le corpus de 32904 vidéos (dans le fichier *2021_10_08_LIVE_VIDEOS.xlsx*). Ce fichier comporte 23761 lignes et 13 variables séparées par des virgules.
 
+- *Traitement_Wizdeo.ipynb*
+
+Ce fichier contient les lignes de code permettant le traitement de la base de données dons_live_total.csv. Mais aussi quelques analyses statistiques faites sur les bases des données. En particulier une comparaison tirée sur la catégorie des chaînes youtube ( dons_live_total_II.csv).
+
 - *Traitement_BDD.ipynb*
 
 Ce fichier contient les lignes de code permettant le traitement de la base de données dons_live_total.csv. Mais aussi quelques analyses statistiques faites sur les bases des données. En particulier une comparaison annuelle tirée de nos bases de données( dons_live8810.csv et dons_live_total_II.csv).
